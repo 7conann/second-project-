@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+ body {font-family: 'Fira Sans', sans-serif;
+    background-color: #E2E8F0;
+
+    
+}
+
+.img {
+   display: flex;
+   justify-content: center;
+   margin-top: 191px;
+    }
+    
+#link {
+  
+border-radius: 4px;
+margin-top: 60px;
+text-align: center;
+
+
+}
+#link a {
+
+    text-decoration: none;
+    color: #BB99DD;
+    justify-content: center;
+    margin-top: 12px;
+    font-size: 16px;
+    text-decoration: bold;
+    font: bold;
+    border: 2px solid #BB99DD;
+    padding: 12px 132px 12px 120px;
+    border-radius: 4px;
+}
+
+#link2 {
+  
+    border-radius: 4px;
+    margin-top: 38px;
+    text-align: center;
+}
+#link2 a {
+    margin-top: 12px;
+    text-decoration: none;
+    color: #BB99DD;
+    border: 2px solid #BB99DD;
+    padding: 12px 132px 12px 120px;
+    border-radius: 4px;
+    
+}
+
+
+#link3 {
+    border-radius: 4px;
+    margin-top: 38px;
+    text-align: center;
+}
+
+#link3 a {  margin-top: 12px;
+    text-decoration: none;
+    color: #BB99DD;
+    border: 2px solid #BB99DD;
+    padding: 12px 132px 12px 120px;
+    border-radius: 4px;
+}
+
+#link4 {border-radius: 4px;
+    margin-top: 38px;
+    text-align: center;
+}
+
+#link4 a {
+    margin-top: 12px;
+    text-decoration: none;
+    color: #BB99DD;
+    border: 2px solid #BB99DD;
+    padding: 12px 132px 12px 120px;
+    border-radius: 4px;
+}
+.insta p { 
+   text-align: center;
+   color: #BB99DD;
+   font-size: 20px;
+   
+}
+
+#icon {
+text-align: center;
+padding-top: 20px;
+}
+
+    
+.icon1 {
+    padding-top: 10px;
+    padding-left: 20px;
+}
